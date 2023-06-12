@@ -34,7 +34,7 @@ Index.html
         <link rel="stylesheet" href="./packages/css/swiper-bundle.min.css">
         <link rel="stylesheet" href="./packages/css/styles.css">
 
-        <title>Sarankumar</title>
+        <title>portfolio</title>
     </head>
     <body>
         <!--==================== HEADER ====================-->
