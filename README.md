@@ -1629,12 +1629,13 @@ img {
 ```
 Output:-
 
-![op6](https://github.com/AntonyJohnKennady/portfolio/assets/127506261/4c9d3ecf-d81f-4301-bf25-cfa9b9de41d6)
+
 ![op1](https://github.com/AntonyJohnKennady/portfolio/assets/127506261/fb7078d5-6ab9-4f95-a906-7f34014d6fc9)
 ![op2](https://github.com/AntonyJohnKennady/portfolio/assets/127506261/4974a095-197d-4b5f-86f7-b6e00a804580)
 ![op3](https://github.com/AntonyJohnKennady/portfolio/assets/127506261/974d29f1-09ab-43f0-9fd6-850602d3f41c)
 ![op4](https://github.com/AntonyJohnKennady/portfolio/assets/127506261/05bb4778-374c-45cf-81c2-879f4d4b9796)
 ![op5](https://github.com/AntonyJohnKennady/portfolio/assets/127506261/a7fad792-fca4-46c0-ba93-5e64a776ea72)
+![op6](https://github.com/AntonyJohnKennady/portfolio/assets/127506261/4c9d3ecf-d81f-4301-bf25-cfa9b9de41d6)
 
 Result:-
 Thus the program To created a web Portfolio/CV using HTML & CSS Successfully.
